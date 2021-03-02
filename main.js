@@ -5,5 +5,5 @@ function vrt(){
     'Wish you a beautiful birthday and I hope you get double of everything you want in your life. Happy Birthday!'
   ];
   var arrNum = Math.floor(Math.random()*bdayArray.length)
-  document.getElementById("bday-text").innerHTML = bdayArray[arrNum]);
+  document.getElementById("bday-text").innerHTML = bdayArray[arrNum];
 }
